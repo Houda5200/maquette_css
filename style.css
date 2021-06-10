@@ -1,0 +1,258 @@
+header{
+    background-image:url(assets/misc/grille.png) ;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 40px;
+    padding-top: 30px;
+    font-family: 'Oswald', sans-serif;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+   }
+
+nav{
+    display: flex;
+    padding-left: 50px; 
+    justify-content: space-evenly;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.video1{
+    display: flex;
+    justify-content: center;
+
+}
+.phrasedaccroche{
+    background-image:url(assets/misc/grille.png) ;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+#articles{ 
+
+    justify-content: center;
+    display: flex;
+    margin-top: 33px;
+    margin-bottom: 53px;
+    margin-left: 750px;
+}
+article a{  
+      color : #A9A9A9;
+      text-decoration: none;
+     
+}
+
+
+article h3{
+    color: #E87A29;
+    }
+
+.golf{
+    border: solid 1px #CDCDCD; 
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+
+.paragraphe1{
+    width: 234px;
+
+}
+
+.colonne1{
+    width: 240px;
+    padding-left: 23px;
+    padding-right: 23px;
+}
+
+.paragraphe2{
+    width: 232px;
+}
+
+.commentaires{
+    padding-left: 8px;
+    padding-bottom: 60px;
+
+}
+    
+
+.commentaires{
+    width: 508px;
+}
+
+.partie2{
+    width: 550px;
+     
+
+}
+.acc{
+    border: solid 1px #D3D3D3;
+    padding: 7px;
+    box-shadow: 1px 1px 1px #d3d3d3;
+    margin: 5px; 
+    width: 150px;
+    
+}
+
+.titleh{
+    border-bottom: 5px solid #F76900;
+    width: 100px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+}
+
+.resto{
+    border-bottom:5px solid #FCD04A;
+    width: 150px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+}
+
+.serv{
+    border-bottom: 5px solid #B9D482;
+    width: 100px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+}
+
+.act{
+    border-bottom: 5px solid #3D92C2;
+    width: 100px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+}
+
+.plus{
+    border-bottom: 5px solid #C078D0;
+    width: 100px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+
+}
+
+.phrasedaccroche{
+    padding-bottom: 16px;
+    padding-top: 16px;
+}
+
+
+.video1{
+    border-bottom: 1px solid #F0F0F0;
+    padding-bottom: 40px;
+    margin-bottom: 10px;
+    border-top: 1px solid #F0F0F0;
+    padding-top: 50px;
+    margin-top: 10px;
+    padding-left: 150px;
+    
+    }
+
+#articles{
+    margin-left: 3px;
+    padding-bottom: 60px;
+    }
+
+.datepublication{
+    color : #A9A9A9;
+}
+
+
+
+
+.info{
+    display: flex;
+    background-image : url('assets/misc/grille.png'); 
+    justify-content: center;
+    background-repeat : repeat;
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+   }
+    
+   .icone{
+    float: left;
+   }
+   .contact{
+    width: 200px;
+    padding-left: 48px;
+    padding-right: 34px;
+   }
+
+   .billet{
+    width: 265px;
+    padding-left: 48px;
+    padding-right: 34px;
+   }
+
+   .commentaire{
+    
+    width: 240px;
+    padding-right: 50px;
+   }
+
+   .blablaland{
+    width: 245px;
+   }
+
+
+   .paragraphe4{
+        width: 665px;
+   }
+
+   .accrobranche{
+       padding-bottom: 30px;
+   }
+   
+   footer{
+    display: flex;
+    border-top: 1px solid #F0F0F0 ;
+    margin-top: 18px;
+    padding-top: 30px;
+    justify-content: space-evenly;
+
+
+    }
+    #div_footer{
+     margin-left: 290px
+    }
+    .foot{
+     display: flex;
+     padding-left: 0;
+    }
+    .foot li{
+     margin-left: 12px;
+    }
+    .foot a{
+     text-decoration: none;
+     color: black;
+     
+    }
+     
+    #div_footer p{
+     padding-left: 12px;
+    }
+    #networks{
+     
+    display: flex;
+    margin-right: 145px;
+    align-items: flex-end;
+    }
+     
+    #networks img{
+     margin-left: 10px;
+    }
+
+.nbr-c{
+    border-bottom: 2px solid #A9A9A9;
+}
